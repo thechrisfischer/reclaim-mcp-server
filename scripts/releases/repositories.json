@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "repositories": {
+    "thechrisfischer/reclaim-mcp-server": {
+      "delivery": "vendored",
+      "default_branch": "main",
+      "deployments": []
+    }
+  }
+}
